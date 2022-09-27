@@ -1,3 +1,5 @@
+URL:http://localhost:8080/api/processpayment  - Use postman for the rest
+
 JSON:
 {
     "brand": "VISA", 
