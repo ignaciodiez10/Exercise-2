@@ -11,3 +11,10 @@ POST:
     "brand": "VISA", 
     "amount": 204
 }
+
+
+Exercise PL/SQL
+
+3) Option = 10
+
+4) Option= Falta seccion de declaracion 
